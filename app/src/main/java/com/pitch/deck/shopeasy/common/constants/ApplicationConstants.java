@@ -9,4 +9,8 @@ public class ApplicationConstants {
         String NAVIGATION = "navigation";
         String DEFAULT_SECTION = "default_section";
     }
+
+    public interface NavigationType {
+        String SCANNER = "scanner";
+    }
 }

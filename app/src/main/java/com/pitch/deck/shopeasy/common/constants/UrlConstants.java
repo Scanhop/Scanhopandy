@@ -5,5 +5,5 @@ package com.pitch.deck.shopeasy.common.constants;
  */
 
 public class UrlConstants {
-    public String BASE_URL = "http://www.mocky.io/v2/5996e6a5130000b8008b77e1";
+    public static String BASE_URL = "http://www.mocky.io/v2/599aa39f0f00009404b4e938";
 }

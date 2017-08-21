@@ -4,4 +4,6 @@
     <color name="colorPrimaryDark">#f26161</color>
     <color name="colorAccent">#f27b7b</color>
     <color name="textColorPrimary">#FFFFFF</color>
+    <color name="navdrawer_icon_default">#000000</color>
+    <color name="navdrawer_text_color_selected">@color/colorAccent</color>
 </resources>
