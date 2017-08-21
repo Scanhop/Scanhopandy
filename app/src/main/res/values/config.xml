@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_url">http://www.mocky.io/v2/5996a5ff110000b10fcc4552</string>   <!-- Test url, will be chnaged once api is ready -->
+</resources>

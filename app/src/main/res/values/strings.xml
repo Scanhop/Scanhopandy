@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShopEasy</string>
+    <string name="app_icon">SE</string>
+    <string name="no_network_msg">No Internet Connection</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
